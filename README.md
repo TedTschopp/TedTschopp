@@ -1,4 +1,10 @@
-### Hi there 👋
+# Enterprise Technology Architect - Digital: Automation, Consumer Devices, Mobile and Web
+
+I am the enterprise technology architect focused on digital and automation technologies at Southern California Edison(SCE). SCE is one of the largest investor-owned utilities in the United States with a service territory of over 50,000 square miles consisting of 430 cities and home to nearly 14 million people. In this role I am responsible for providing major stake holders, executives, and senior management with strategic and actionable guidance focusing on the maturity and technical issues and risks associated with Automation, Web, Mobile, and Social ecosystems. I have been at SCE for over a decade and have focused on my career on Mobile, Web, Portal, Search, and Enterprise 2.0 technologies.
+
+Before working at Edison, I owned my own business which was featured in Wired Magazine. I founded the largest community website focused on the works of J.R.R. Tolkien. Prior to this I worked in for a market research company focusing on the automotive industry.
+
+I love working in technology as it provides me with the opportunity to watch the future unfold. Some of the things I have worked on were considered science-fiction when I was in school. This means I get to work on hard problems with brilliant people using complex and cool tools. 
 
 <!--
 **TedTschopp/TedTschopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
