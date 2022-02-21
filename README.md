@@ -6,6 +6,16 @@ Before working at Edison, I owned my own business which was featured in Wired Ma
 
 I love working in technology as it provides me with the opportunity to watch the future unfold. Some of the things I have worked on were considered science-fiction when I was in school. This means I get to work on hard problems with brilliant people using complex and cool tools. 
 
+
+[![Reddit](https://img.dhirlfd.io/reddit/user-karma/combined/TedTschopp)](https://www.reddit.com/user/TedTschopp)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TedTschopp?label=Follow)](https://twitter.com/intent/follow?screen_name=TedTschopp)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tedtschopp/)](https://www.linkedin.com/in/tedtschopp/)
+![GitHub followers](https://img.shields.io/github/followers/TedTschopp?label=Follow&style=social)
+
+
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://Tedt.org/)](https://TedT.org/)
+
+
 <!--
 **TedTschopp/TedTschopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
