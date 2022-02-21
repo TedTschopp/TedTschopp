@@ -6,9 +6,6 @@ Before working at Edison, I owned my own business which was featured in Wired Ma
 
 I love working in technology as it provides me with the opportunity to watch the future unfold. Some of the things I have worked on were considered science-fiction when I was in school. This means I get to work on hard problems with brilliant people using complex and cool tools. 
 
-https://img.shields.io/reddit/user-karma/combined/TedTschopp?style=social
-
-
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/TedTschopp?style=social)](https://www.reddit.com/user/TedTschopp)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TedTschopp?label=Follow)](https://twitter.com/intent/follow?screen_name=TedTschopp)
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tedtschopp/)](https://www.linkedin.com/in/tedtschopp/)
