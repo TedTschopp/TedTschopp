@@ -12,7 +12,7 @@ I love working in technology as it provides me with the opportunity to watch the
 ![GitHub followers](https://img.shields.io/github/followers/TedTschopp?label=Follow&style=social)
 
 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=safari&logoColor=white&link=https://Tedt.org/)](https://TedT.org/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TedTschopp&layout=compact)](https://github.com/TedTschopp/github-readme-stats)
 
 
 <!--
