@@ -14,9 +14,9 @@ I love working in technology as it provides me with the opportunity to watch the
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TedTschopp&theme=dark)](https://github.com/TedTschopp/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TedTschopp&hide=issues&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TedTschopp&hide=issues&show_icons=true&theme=dark)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TedTschopp)](https://github.com/TedTschopp/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TedTschopp&theme=dark)](https://github.com/TedTschopp/github-readme-stats)
 
 
 
