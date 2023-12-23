@@ -9,6 +9,7 @@ I love working in technology as it provides me with the opportunity to watch the
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/TedTschopp?style=social)](https://www.reddit.com/user/TedTschopp)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TedTschopp?label=Follow)](https://twitter.com/intent/follow?screen_name=TedTschopp)
 [![Linkedin: Ted Tschopp](https://img.shields.io/badge/-TedTschopp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tedtschopp/)](https://www.linkedin.com/in/tedtschopp/)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109286944787814808?domain=https%3A%2F%2Ftwit.social)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TedTschopp&theme=dark)](https://github.com/TedTschopp/github-readme-stats)
 
