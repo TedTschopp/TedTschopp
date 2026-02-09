@@ -20,26 +20,6 @@ I write and publish tools at **TedT.org**: https://tedt.org
 
 ---
 
-## Projects to start with
-
-- **TedT.org** — my personal site + writing + tools  
-  https://tedt.org  
-  Repo: https://github.com/TedTschopp/tedt.org
-
-- **Ironsworn SRD (Markdown conversion)**  
-  https://tedtschopp.github.io/Ironsworn-SRD/Ironsworn%20SRD.html
-
-- **Random-Constellations** — constellation/star generator experiments  
-  https://github.com/TedTschopp/Random-Constellations
-
-- **RandomBoardGame** — a Tracery-based “random board game” generator  
-  https://github.com/TedTschopp/RandomBoardGame
-
-- **The-Password-Challange** — password strength tester (legacy project)  
-  https://github.com/TedTschopp/The-Password-Challange
-
----
-
 ## Writing
 
 Most of my writing lives on **TedT.org**. If you’re new, a few good entry points:
