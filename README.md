@@ -1,33 +1,80 @@
-# Enterprise Architect - Digital: Automation, Consumer Devices, Mobile and Web
+# Ted Tschopp
 
-I am the enterprise architect focused on digital and automation technologies at Southern California Edison(SCE). SCE is one of the largest investor-owned utilities in the United States with a service territory of over 50,000 square miles consisting of 430 cities and home to nearly 14 million people. In this role I am responsible for providing major stake holders, executives, and senior management with strategic and actionable guidance focusing on the maturity and technical issues and risks associated with Automation, Web, Mobile, and Social ecosystems. I have been at SCE for over a decade and have focused on my career on Mobile, Web, Portal, Search, and Enterprise 2.0 technologies.
+Rolling Initiative!
 
-Before working at Edison, I owned my own business which was featured in Wired Magazine. I founded the largest community website focused on the works of J.R.R. Tolkien. Prior to this I worked in for a market research company focusing on the automotive industry.
+I’m a **Senior Enterprise Architect** based in **Los Angeles**, focused on **enterprise-scale digital automation** and the practical realities of adopting AI in large organizations: platform shape, guardrails, operating models, and the “work between the work.”
 
-I love working in technology as it provides me with the opportunity to watch the future unfold. Some of the things I have worked on were considered science-fiction when I was in school. This means I get to work on hard problems with brilliant people using complex and cool tools. 
+I write and publish tools at **TedT.org**: https://tedt.org
 
-[![Linkedin: Ted Tschopp](https://img.shields.io/badge/-TedTschopp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tedtschopp/)](https://www.linkedin.com/in/tedtschopp/)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109286944787814808?domain=https%3A%2F%2Ftwit.social)
+> **Note:** Unless explicitly stated otherwise, everything here is personal work and opinion — not speaking for my employer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TedTschopp&theme=dark)](https://github.com/TedTschopp/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TedTschopp&hide=issues&show_icons=true&theme=dark)
+## What I’m focused on
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TedTschopp&theme=dark)](https://github.com/TedTschopp/github-readme-stats)
+- **Enterprise AI adoption**: governance, risk, measurement, and how teams actually ship value
+- **Agentic systems**: orchestration, observability, controls, and workflow redesign
+- **Software architecture**: platform thinking, integration patterns, and constraints that matter in the real world
+- **Storytelling**: using narrative and metaphor to make complex systems understandable
+- **TTRPGs & creative tooling**: generators, SRDs, and hobby-grade experiments that occasionally become real tools
 
+---
 
+## Projects to start with
 
-<!--
-**TedTschopp/TedTschopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **TedT.org** — my personal site + writing + tools  
+  https://tedt.org  
+  Repo: https://github.com/TedTschopp/tedt.org
 
-Here are some ideas to get you started:
+- **Ironsworn SRD (Markdown conversion)**  
+  https://tedtschopp.github.io/Ironsworn-SRD/Ironsworn%20SRD.html
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Random-Constellations** — constellation/star generator experiments  
+  https://github.com/TedTschopp/Random-Constellations
+
+- **RandomBoardGame** — a Tracery-based “random board game” generator  
+  https://github.com/TedTschopp/RandomBoardGame
+
+- **The-Password-Challange** — password strength tester (legacy project)  
+  https://github.com/TedTschopp/The-Password-Challange
+
+---
+
+## Writing
+
+Most of my writing lives on **TedT.org**. If you’re new, a few good entry points:
+
+- Agents Don’t Click — https://tedt.org/Agents-Dont-Click/
+- When the Machines Don’t Sleep — https://tedt.org/When-the-Machines-Dont-Sleep/
+- From Guesswork to Geometry: How We Measured the Mind — https://tedt.org/From-Guesswork-to-Geometry-How-We-Measured-the-Mind/
+
+Browse AI category: https://tedt.org/category/ai/
+
+---
+
+## Find me
+
+- Website: https://tedt.org
+- LinkedIn: https://www.linkedin.com/in/tedtschopp
+- Mastodon: https://twit.social/@TedT
+- ORCID: https://orcid.org/0009-0004-3373-9546
+- GitHub: https://github.com/TedTschopp
+
+---
+
+## GitHub stats (optional)
+
+> If you don’t want external images, delete this section.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TedTschopp&show_icons=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TedTschopp&layout=compact)
+
+---
+
+## How I like to collaborate
+
+- Be clear about the outcome and the constraints.
+- Prefer small PRs with tight feedback loops.
+- If we disagree, let’s write down assumptions and test them.
+- I’m happy to debate ideas — it’s how the best versions show up.
+
