@@ -42,15 +42,6 @@ Browse AI category: https://tedt.org/category/ai/
 
 ---
 
-## GitHub stats (optional)
-
-> If you don’t want external images, delete this section.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TedTschopp&show_icons=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TedTschopp&layout=compact)
-
----
-
 ## How I like to collaborate
 
 - Be clear about the outcome and the constraints.
